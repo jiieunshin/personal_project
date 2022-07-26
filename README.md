@@ -6,4 +6,4 @@
 
 * **fusion** is the final-project presented in a *Machine Learning (autumn, 2021)* in UOS. (Hastie, T., Tibshirani, R., Friedman, J. H., & Friedman, J. H. (2009). The elements of statistical learning: data mining, inference, and prediction (Vol. 2, pp. 1-758). New York: springer.)
 
-* **AIRS** is the final-project presented in a *Simulation and the Monte-Calro method (autumn, 2021)* in  UOS. (Rubinstein, R. Y., & Kroese, D. P. (2016). Simulation and the Monte Carlo method. John Wiley & Sons.)
+* **AISR** is the final-project presented in a *Simulation and the Monte-Calro method (autumn, 2021)* in  UOS. (Rubinstein, R. Y., & Kroese, D. P. (2016). Simulation and the Monte Carlo method. John Wiley & Sons.)
