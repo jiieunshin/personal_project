@@ -1,7 +1,5 @@
 ## personal project
 
-* **Lotte_CBA** is a project using customer data from the Lotte Competition. This project recommend personal products to each customer individually by analyzing recommmendation system, and offer services for store management. 
-
 * **LAWS** is the thesis presented in a *large-scale inference (spring, 2021)* in  UOS. 
 
 The presentation is a summary of the paper *Cai, T. T., Sun, W., & Xia, Y. (2021). LAWS: A locally adaptive weighting and screening approach to spatial multiple testing. Journal of the American Statistical Association, 1-14.* I learned from the book *Efron, B. (2012). Large-scale inference: empirical Bayes methods for estimation, testing, and prediction (Vol. 1). Cambridge University Press.*
