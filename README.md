@@ -10,4 +10,4 @@ The presentation is a summary of the paper *Stokell, B. G., Shah, R. D., & Tibsh
 
 * **AISR** is the final-project presented in a *Topics in statistics (autumn, 2021)* in  UOS. 
 
-As an application of Importance Sampling, the Importance Sampling method was used to estimate the probability of rare events in regression analysis. I learned from the book *Rubinstein, R. Y., & Kroese, D. P. (2016). Simulation and the Monte Carlo method. John Wiley & Sons.*
+As an application of Importance Sampling, I estimated the probability of rare events in a regression model. I learned from the book *Rubinstein, R. Y., & Kroese, D. P. (2016). Simulation and the Monte Carlo method. John Wiley & Sons.*
